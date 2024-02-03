@@ -1,5 +1,17 @@
 # Changelog
 
+## [10.4.1](https://github.com/npm/cli/compare/v10.4.0...v10.4.1) (2024-02-03)
+
+### Bug Fixes
+
+* [`d04111d`](https://github.com/npm/cli/commit/d04111d48ca59fce27909712b328fe5cfc4d016d) [#7197](https://github.com/npm/cli/pull/7197) view: filter out invalid semver (#7197) (@wraithgar)
+* [`b0a3ba0`](https://github.com/npm/cli/commit/b0a3ba0b99ce5920722244f1ccb8b830826abef4) [#7195](https://github.com/npm/cli/pull/7195) prevent adding invalid dist-tag (#7195) (@wraithgar)
+
+### Documentation
+
+* [`5b7184f`](https://github.com/npm/cli/commit/5b7184f3aaf5a9ca58418b6d029616088964ed0a) [#7190](https://github.com/npm/cli/pull/7190) workspaces: fix grammar (#7190) (@alekstech)
+* [`0dd03f9`](https://github.com/npm/cli/commit/0dd03f9450e0cf57fa85ad2ef74b5a54f3c775a9) [#7182](https://github.com/npm/cli/pull/7182) fix typos (#7182) (@GoodDaisy)
+
 ## [10.4.0](https://github.com/npm/cli/compare/v10.3.0...v10.4.0) (2024-01-24)
 
 ### Features
